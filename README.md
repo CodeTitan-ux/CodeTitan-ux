@@ -18,9 +18,9 @@
 
 ## 👋 About Me
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="55%" style="padding-right: 20px;">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Full-Stack+Developer;AI+Enthusiast;Open-Source+Contributor;Building+Impactful+Tools" alt="Typing SVG" />
+</div>
 
 ```java
 public class AmanJambhulkar {
@@ -45,14 +45,6 @@ public class AmanJambhulkar {
                     + " while writing my own! 😄";
 }
 ```
-
-</td>
-    <td valign="middle" width="45%" align="center">
-      <img src="https://i.gifer.com/NxfN.gif" alt="coding gif" width="100%" style="max-width:400px; border-radius:8px;" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
